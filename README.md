@@ -19,7 +19,7 @@ git commit -m "this is my first commit"
 git pull
 
 ```
-
+## To initiate shell script in your project 
 ```
 bash your_file_name.sh
 ```
