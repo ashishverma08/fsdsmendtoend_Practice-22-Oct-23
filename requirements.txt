@@ -1,3 +1,7 @@
 pandas
 scikit-learn
 numpy
+
+-e .     
+
+"""For installing self package in environment  internally it calls setup.py file indirectly only """

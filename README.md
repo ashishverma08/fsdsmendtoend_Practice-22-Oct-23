@@ -45,3 +45,8 @@ pip install -r requirements.txt
 ```
 
 ```
+
+### You can check going inside environment and writting 
+```
+pip list
+```
