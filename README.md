@@ -15,21 +15,33 @@ git commit -m "this is my first commit"
 ```
 
 ```
-
 git pull
-
 ```
+
+## Install template.py file as
+```
+python template.py
+```
+
 ## To initiate shell script in your project 
+### Here bash init_setup.sh 
 ```
 bash your_file_name.sh
 ```
 
+## To make the local package we need to write __init__.py file 
+## To install local packages into the environment created in init_setup.py we have three methods
+### Method 1
 ```
 python setup.py install
 ```
 
-# another way you can mention -e . in your requirement file and you can run
-
+### 2 Method you can mention -e . in your requirement file and you can run
 ```
 pip install -r requirements.txt
+```
+### Method 3 we can 
+
+```
+
 ```
