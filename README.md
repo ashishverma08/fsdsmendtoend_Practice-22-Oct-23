@@ -50,3 +50,9 @@ pip install -r requirements.txt
 ```
 pip list
 ```
+
+
+
+### Now start creating environment as in init_setup.sh
+```
+```
