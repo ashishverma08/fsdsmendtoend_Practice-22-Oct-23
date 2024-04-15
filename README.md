@@ -29,7 +29,7 @@ python template.py
 bash your_file_name.sh
 ```
 
-### To make the local package we need to write "__init__.py" file inside src. 
+### To make the local package we need to write "&#95;&#95;init&#95;&#95;.py" file inside src. 
 ## To install local packages into the environment created in init_setup.py we have three methods
 ### Method 1
 ```
